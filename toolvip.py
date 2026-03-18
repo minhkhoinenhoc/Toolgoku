@@ -12,8 +12,8 @@ def show_banner():
     banner_text = """
 ╔══════════════════════════════════════════════════════════════╗
 ║                   🌟 TOOL SPAM MESS & DIS & TELE 🌟          ║
-║                    📞 Contact: 0904942608               ║
-║                    © Copyright: Chak Là Datk                 ║
+║                    Facebook:Nh Qui               ║
+║                    © Copyright: Nhất Vy                 ║
 ╚══════════════════════════════════════════════════════════════╝
 """
     print(banner_text)
